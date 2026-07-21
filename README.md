@@ -127,14 +127,15 @@ Software Engineering
 
 ---
 
-# 🐍 Contribution Snake
+<h2 align="center">
+🐍 Contribution Snake
+</h2>
 
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/MuhTech/MuhTech/output/github-contribution-grid-snake-dark.svg">
 
 </div>
-
 ---
 
 # 🎯 Current Mission

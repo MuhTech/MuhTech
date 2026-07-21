@@ -148,9 +148,11 @@ Software Engineering
 
 # 🎧 Recently Played
 
-<!-- LASTFM:START -->
+<!-- LASTFM-START -->
+
 Loading music...
-<!-- LASTFM:END -->
+
+<!-- LASTFM-END -->
 
 ---
 

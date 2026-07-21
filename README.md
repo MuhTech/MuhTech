@@ -1,103 +1,189 @@
-<h1 align="center">Hi 👋, I'm Muharam Kapera</h1>
+<div align="center">
 
-<h3 align="center">
-AI Engineer • Full Stack Developer • Founder of MUH TECH COMPANY LTD
+<img src="./assets/muhtech-banner.png" width="100%" alt="MuhTech Banner">
+
+<br>
+
+<h1>👋 Hi, I'm Muharam Kapera</h1>
+
+<h3>
+🤖 AI Engineer • Full Stack Developer • Founder of MUH TECH COMPANY LTD
 </h3>
 
-<p align="center">
-Building AI-powered software that helps businesses automate, grow, and innovate.
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=00A8FF&center=true&vCenter=true&width=700&lines=Building+AI-powered+software;Creating+automation+systems;Developing+intelligent+applications;Building+the+future+with+AI">
+
+<br>
+
+<p>
+Building intelligent software solutions that help businesses automate, grow, and innovate.
 </p>
 
----
+<img src="https://komarev.com/ghpvc/?username=MuhTech&style=for-the-badge&color=blue">
 
-## 🚀 About Me
-
-- 🤖 Building **AI Business OS**
-- 📈 Developing Smart Money Concepts Trading Bots
-- 🏥 Creating AI solutions for Healthcare
-- 🌍 Based in Tanzania
-- 💡 Passionate about AI, Automation, and Entrepreneurship
+</div>
 
 ---
 
-## 🛠 Tech Stack
+# 🚀 About Me
 
-### Languages
+I am a developer and entrepreneur passionate about creating technology that solves real-world problems.
 
-- Python
-- JavaScript
-- TypeScript
-- HTML
-- CSS
+My focus areas:
 
-### Frontend
+* 🤖 Artificial Intelligence
+* ⚡ Business Automation
+* 🌐 Full Stack Development
+* 📊 Intelligent Data Systems
+* 📈 Algorithmic Trading Technology
 
-- React
-- Tailwind CSS
-- Next.js
+Currently building:
 
-### Backend
-
-- Node.js
-- Express
-- FastAPI
-
-### AI
-
-- OpenAI API
-- LangChain
-- AI Agents
-- Prompt Engineering
-
-### Database
-
-- MongoDB
-- PostgreSQL
-- Firebase
-
-### Tools
-
-- Git
-- GitHub
-- Docker
-- VS Code
-- Figma
+* 🧠 **AI Business OS**
+* 📈 **Smart Money Concepts Trading Bot**
+* 🏥 **AI 4 Health Platform**
+* 🌍 **MUH TECH COMPANY LTD**
 
 ---
 
-## 🚀 Featured Projects
+# 🧭 Explore My Profile
 
-[View Projects](projects.md)
----
+<div align="center">
 
-## 📈 GitHub Stats
+| Section     | Description                          |
+| ----------- | ------------------------------------ |
+| 🚀 Projects | My software projects and experiments |
+| 🛠 Skills   | Technologies and tools I use         |
+| 🗺 Roadmap  | My development journey               |
 
-<!-- Add GitHub Readme Stats here -->
+</div>
 
----
+➡️ [🚀 View Projects](projects.md)
 
-## 🎯 2026 Goals
+➡️ [🛠 View Skills](skills.md)
 
-- 🚀 Launch AI Business OS
-- 🌍 Contribute to Open Source
-- 📚 Master AI Agent Development
-- 🤝 Collaborate on impactful AI projects
-
----
-
-## 📫 Connect With Me
-
-📧 Email: **muharamikapera@gmail.com**
-
-📺 YouTube:
-https://youtube.com/@muharamikapera
-
-📷 Instagram:
-https://instagram.com/muhgraphix
-
-💬 WhatsApp:
-https://wa.me/message/A5FI7UVXLZANO1
+➡️ [🗺 View Roadmap](roadmap.md)
 
 ---
 
-> *"Building intelligent software that creates real-world impact."*
+# 🛠 Technology Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,react,nextjs,nodejs,tailwind,mongodb,postgres,docker,git,github,vscode&perline=7">
+
+</div>
+
+---
+
+# 🤖 AI & Software Development
+
+```text
+Artificial Intelligence
+├── OpenAI API
+├── AI Agents
+├── LangChain
+├── Prompt Engineering
+└── Machine Learning
+
+Software Engineering
+├── Frontend Development
+├── Backend Development
+├── API Development
+├── Database Design
+└── Cloud Systems
+```
+
+---
+
+# 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=MuhTech&show_icons=true&theme=tokyonight&hide_border=true">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhTech&layout=compact&theme=tokyonight&hide_border=true">
+
+</div>
+
+---
+
+# 🔥 Developer Activity
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=MuhTech&theme=tokyonight&hide_border=true">
+
+</div>
+
+---
+
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=MuhTech&theme=tokyonight&no-frame=true&row=1&column=7">
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/MuhTech/MuhTech/output/github-contribution-grid-snake-dark.svg">
+
+</div>
+
+---
+
+# 🎯 Current Mission
+
+Building:
+
+✅ AI-powered business systems
+✅ Intelligent automation tools
+✅ Scalable software products
+✅ Open-source technology
+
+---
+
+# 📚 Learning Journey
+
+Currently exploring:
+
+* Advanced AI Agents
+* Machine Learning Systems
+* Cloud Architecture
+* DevOps
+* SaaS Development
+
+---
+
+# 📫 Connect With Me
+
+<div align="center">
+
+<a href="mailto:muharamikapera@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
+</a>
+
+<a href="https://youtube.com/@muharamikapera">
+<img src="https://img.shields.io/badge/YouTube-Channel-red?style=for-the-badge&logo=youtube">
+</a>
+
+<a href="https://github.com/MuhTech">
+<img src="https://img.shields.io/badge/GitHub-MuhTech-black?style=for-the-badge&logo=github">
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+## 💡 Building intelligent software that creates real-world impact.
+
+🇹🇿 Tanzania | 🌍 Global Technology
+
+</div>

@@ -14,12 +14,15 @@ jobs:
       contents: write
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
-      - name: Update Last.fm recently played
-        uses: jamesgeorge007/github-lastfm-readme@master
-        env:
-          LASTFM_USERNAME: ${{ secrets.LASTFM_USERNAME }}
-          LASTFM_API_KEY: ${{ secrets.LASTFM_API_KEY }}
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Generate Last.fm stats
+        uses: eddiejaoude/lastfm-api@main
+        with:
+          username: ${{ secrets.LASTFM_USERNAME }}
+          api_key: ${{ secrets.LASTFM_API_KEY }}
+
+      - name: Commit changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Update Last.fm stats"

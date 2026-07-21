@@ -1,16 +1,110 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Muharam Kapera</h1>
 
-<!--
-**MUH-GRAPHIX/MUH-GRAPHIX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+AI Engineer • Full Stack Developer • Founder of MUH TECH COMPANY LTD
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+Building AI-powered software that helps businesses automate, grow, and innovate.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 🤖 Building **AI Business OS**
+- 📈 Developing Smart Money Concepts Trading Bots
+- 🏥 Creating AI solutions for Healthcare
+- 🌍 Based in Tanzania
+- 💡 Passionate about AI, Automation, and Entrepreneurship
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
+
+- Python
+- JavaScript
+- TypeScript
+- HTML
+- CSS
+
+### Frontend
+
+- React
+- Tailwind CSS
+- Next.js
+
+### Backend
+
+- Node.js
+- Express
+- FastAPI
+
+### AI
+
+- OpenAI API
+- LangChain
+- AI Agents
+- Prompt Engineering
+
+### Database
+
+- MongoDB
+- PostgreSQL
+- Firebase
+
+### Tools
+
+- Git
+- GitHub
+- Docker
+- VS Code
+- Figma
+
+---
+
+## 🚀 Featured Projects
+
+🧠 AI Business OS
+
+📊 Smart Money Trading Bot
+
+🏥 AI 4 Health
+
+🌐 Portfolio Website
+
+---
+
+## 📈 GitHub Stats
+
+<!-- Add GitHub Readme Stats here -->
+
+---
+
+## 🎯 2026 Goals
+
+- 🚀 Launch AI Business OS
+- 🌍 Contribute to Open Source
+- 📚 Master AI Agent Development
+- 🤝 Collaborate on impactful AI projects
+
+---
+
+## 📫 Connect With Me
+
+📧 Email: **muharamikapera@gmail.com**
+
+📺 YouTube:
+https://youtube.com/@muharamikapera
+
+📷 Instagram:
+https://instagram.com/muhgraphix
+
+💬 WhatsApp:
+https://wa.me/message/A5FI7UVXLZANO1
+
+---
+
+> *"Building intelligent software that creates real-world impact."*

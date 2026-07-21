@@ -146,13 +146,11 @@ Software Engineering
 
 ---
 
-# 🎵 Currently Exploring
+# 🎧 Recently Played
 
-Coming soon:
-
-- 🎧 Spotify Now Playing integration
-- 🌌 3D Contribution Calendar
-- 🤖 More AI-powered projects
+<!-- LASTFM:START -->
+Loading music...
+<!-- LASTFM:END -->
 
 ---
 

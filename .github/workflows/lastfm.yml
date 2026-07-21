@@ -14,15 +14,21 @@ jobs:
       contents: write
 
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
-      - name: Generate Last.fm stats
-        uses: eddiejaoude/lastfm-api@main
-        with:
-          username: ${{ secrets.LASTFM_USERNAME }}
-          api_key: ${{ secrets.LASTFM_API_KEY }}
+      - name: Install Python dependencies
+        run: |
+          pip install requests
+
+      - name: Update Last.fm README
+        env:
+          LASTFM_USERNAME: ${{ secrets.LASTFM_USERNAME }}
+          LASTFM_API_KEY: ${{ secrets.LASTFM_API_KEY }}
+        run: |
+          python scripts/lastfm.py
 
       - name: Commit changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "Update Last.fm stats"
+          commit_message: "Update Last.fm playing status"

@@ -67,16 +67,6 @@ Building AI-powered software that helps businesses automate, grow, and innovate.
 
 ## 🚀 Featured Projects
 
-🧠 AI Business OS
-
-📊 Smart Money Trading Bot
-
-🏥 AI 4 Health
-
-🌐 Portfolio Website
-
-See my complete project list:
-
 [View Projects](projects.md)
 ---
 

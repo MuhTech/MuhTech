@@ -75,6 +75,9 @@ Building AI-powered software that helps businesses automate, grow, and innovate.
 
 🌐 Portfolio Website
 
+See my complete project list:
+
+[View Projects](projects.md)
 ---
 
 ## 📈 GitHub Stats
